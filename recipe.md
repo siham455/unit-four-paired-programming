@@ -58,7 +58,7 @@ music.add_track("Track 1")
 music.tracks == ["Track 1"]
 
 """
-Given a multiple tracks
+Given multiple tracks
 #returns a list containing all the tracks 
 """
 music = Music()
